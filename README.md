@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Fatma936
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java, PHP and spring boot 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Fatma936/Fatma936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bonjour, Je suis Fatma étudiante, actuellement en 3ème année de licence en developpement web et multimédia 
