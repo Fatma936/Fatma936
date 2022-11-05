@@ -1,8 +1,7 @@
-![logo](https://github.com/Fatma936/Fatma936/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Fatma Benali</h1>
 <h3 align="center">A passionate full-stuck developer from Tunisia</h3>
 
-<img width="400" align="right" src="https://i.pinimg.com/originals/14/d5/22/14d5221cf3ef7a192da571094bb4fc71.gif">
+<img width="400" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma936&label=Profile%20views&color=0e75b6&style=flat" alt="fatma936" /> </p>
 
